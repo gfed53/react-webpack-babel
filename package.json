@@ -1,0 +1,18 @@
+{
+  "name": "react-webpack-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.5"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.1.0"
+  }
+}
